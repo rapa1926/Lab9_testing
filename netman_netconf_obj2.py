@@ -1,3 +1,4 @@
+import time
 from __future__ import print_function
 try:
     from ncclient import manager
